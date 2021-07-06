@@ -1,1 +1,1 @@
-<!-- This is a Docker project made with Python and Flask. -->
+# This is a Docker project made with Python and Flask.
