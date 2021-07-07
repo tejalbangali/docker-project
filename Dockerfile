@@ -19,4 +19,4 @@ CMD [ "python3", "market.py"]
 
 # build -> docker build -t name .
 # run -> docker run -p 8000:8000 name
-#see -> localhost:5000
+#see -> localhost
